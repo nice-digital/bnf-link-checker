@@ -1,0 +1,12 @@
+{
+  "sitemap": {
+    "host": "bnf.nice.org.uk",
+    "path": "/sitemap.xml",
+    "pathPrefixes": [
+      "/clinical-medical-device-information-group",
+      "/medical-device-type",
+      "/medical-device"
+    ]
+  },
+  "targetHost": "dev-bnf-gatsby.nice.org.uk"
+}
